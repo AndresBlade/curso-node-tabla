@@ -1,0 +1,21 @@
+{
+	"dependencies": {
+		"@types/node": "^20.2.5",
+		"@types/yargs": "^17.0.24",
+		"colors": "^1.4.0",
+		"yargs": "^17.7.2"
+	},
+	"version": "0.0.1",
+	"name": "bases",
+	"description": "bases de node",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"base3": "node app --base=3"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.22"
+	}
+}
